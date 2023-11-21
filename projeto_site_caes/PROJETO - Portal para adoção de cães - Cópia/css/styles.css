@@ -1,0 +1,193 @@
+/* Adicione estilos personalizados aqui, se necessário */
+
+footer {
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  background-color: rgb(116, 116, 116);
+  color: black;
+  font-size: 12px;
+  line-height: 30px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  bottom: 0;
+  width: 100%;
+}
+
+.container-fluid {
+  float: center;
+  text-align: center;
+  background-color: rgb(235, 235, 235);
+  box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px 0 20px;
+  margin-bottom:2px; color: white;
+  margin-bottom:2px; color: white;
+  
+  
+}
+
+.container-fluid2 {
+  background-color: rgb(235, 235, 235);
+}
+
+.container {
+  float: center;
+  text-align: center;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.menuPrincipal {
+  padding: 20px;
+  margin: 40px;
+}
+
+.menuPrincipal,
+button {
+  color: red;
+  border-radius: 8px;
+  padding: 10px 24px;
+}
+
+#zonaLogotipo {
+  float: left;
+}
+
+#zonaConteudo {
+  padding: auto;
+}
+
+.titulo {
+  font: 65px Lora, serif;
+}
+
+.navbar {
+  background-color: rgb(255, 201, 24);
+  width: 100%;
+  box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+
+.header {
+  background-color: black;
+}
+
+.card {
+  box-shadow: 0 4px 12px;
+  background-color: rgb(255, 201, 24);
+
+}
+
+.boxed-text {
+  border: 2px solid #333;
+  border-radius: 30px;
+  padding: 10px;
+  margin-right: 40px;
+  margin-left: 40px;
+  box-shadow: 0 4px 8px black;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(235, 235, 235);
+  height: 100%;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  background-color: #555;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+section {
+  padding: 20px;
+}
+
+
+
+.card-body {
+  padding: 20px;
+}
+
+.card-body2 {
+  text-align: left;
+  padding: 10px;
+}
+
+table, th, td {
+  border: 2px solid black;
+  width: 700px;
+  font-size: 20px;
+  height: 63px;
+  text-align: center;
+}
+
+
+p {
+  font-size: 20px;
+}
+
+.botao_azul{
+  background-color: rgb(25, 133, 255);
+  color: white;
+}
+
+.btn{
+  font-size: 20px;
+  text-decoration: none; 
+  color: white;
+  margin: 20px 0;
+  background-color: rgb(25, 133, 255);
+}
+
+
+.subtitulo{
+  margin-bottom:2px;
+  color: white;
+  font-size: 40px;
+}
+
+.container-fluid3{
+  padding: 20px;
+  margin-bottom: 20px; 
+  background-color: rgb(25, 133, 255); 
+  font-size:40px; 
+  text-align:center;
+}
+
+.container-fluid4{
+  text-align: left;
+}
+
+a{
+  text-decoration: none; 
+  color: white;
+  
+}
+
+.form-select{
+  margin-bottom: 20px;
+}
